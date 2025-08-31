@@ -1,0 +1,6 @@
+id=aac_bluetooth_enabler
+name=AAC Bluetooth Enabler
+version=v1.0
+versionCode=1
+author=YourName
+description=Enables AAC codec for Bluetooth by setting required system properties. Fixes missing AAC option on some devices.
