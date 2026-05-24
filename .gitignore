@@ -1,0 +1,21 @@
+# Build outputs
+*.zip
+*.apk
+
+# Version control
+.git/
+.gitattributes
+
+# IDE
+.idea/
+*.iml
+.gradle/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.log
+*.tmp
